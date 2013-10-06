@@ -1,0 +1,15 @@
+# From dotfiles
+
+[credential]
+helper = /opt/boxen/bin/boxen-git-credential
+
+[core]
+excludesfile = /opt/boxen/config/git/gitignore
+
+[hub]
+protocol = https
+[user]
+	name = Sveinung Dalatun
+	email = sdalatun@gmail.com
+[color]
+	ui = auto
