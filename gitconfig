@@ -13,3 +13,5 @@ protocol = https
 	email = sdalatun@gmail.com
 [color]
 	ui = auto
+[push]
+	default = upstream
