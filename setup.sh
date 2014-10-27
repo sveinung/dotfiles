@@ -5,4 +5,5 @@
 ./tree.sh
 ./fish.sh
 ./wget.sh
+./nodejs.sh
 
